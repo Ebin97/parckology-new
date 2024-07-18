@@ -43,7 +43,6 @@ instrumentedLibs/
 .gradle
 local.properties
 .DS_Store
-.env
 *.jks
 .idea/
 *.iml
