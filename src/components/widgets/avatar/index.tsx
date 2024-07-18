@@ -31,9 +31,7 @@ function ChooseAvatar() {
             const res = await post(routeConfig.avatar, {
                 avatar: avatar
             }, user?.token);
-            console.log('====================================');
-            console.log('res', res);
-            console.log('====================================');
+
             if (res && res.status_code == 200) {
                 storeUser(res.data)
                 dispatch(updateAvatar(avatar))
