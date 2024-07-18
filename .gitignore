@@ -1,0 +1,140 @@
+# React Native
+node_modules/
+.buckconfig
+.gradle/
+.idea/
+.packages
+.expo/
+*.iml
+*.hmap
+*.lock
+*.log
+*.tlog
+*.keystore
+*.mobileprovision
+*.orig
+*.swp
+*.lock
+*.xcuserstate
+*.xcodeproj
+*.xcworkspace
+*.log
+*.rej
+*.suo
+*.class
+*.module-cache/
+*.moved-aside
+*.xctest/
+*.moved-aside/
+*.hmap
+*.jar
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directory for instrumented libs
+instrumentedLibs/
+
+# Android/IntelliJ
+.gradle
+local.properties
+.DS_Store
+.env
+*.jks
+.idea/
+*.iml
+*.hprof
+/capture/
+
+# OS X
+.DS_Store
+
+# Android
+/build/
+local.properties
+/.gradle/
+*/local.properties
+/gradle.properties
+.gradle/
+app/build/
+app/keystores/
+*.jks
+
+# iOS
+build/
+DerivedData/
+Pods/
+xcuserdata/
+*.xcworkspace
+*.xcuserstate
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+.xcuserdatad/
+xcdebugger/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# React Native specific files
+*.pack
+*.lock
+*.p8
+*.p12
+
+# Watchman
+.watchmanconfig
+
+# Haste
+jest/
+
+# NPM files
+*.tgz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directory for instrumented libs
+instrumentedLibs/
+
+# VS Code
+.vscode/
+
+# Metro bundler
+.expo/
+.expo-shared/
+
+# Sentry
+.sentryclirc
+
+# Firebase Crashlytics
+crashlytics-build.properties
+
+# ESLint
+.eslintcache
+
+# Flow
+.flowconfig
+.flowconfig
+.flowconfig*
+
+# TSC
+*.tsbuildinfo
+
+# Visual Studio Code
+.vscode/
+
